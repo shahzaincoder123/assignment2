@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+td {
+    background-color: rgb(235, 236, 208);
+    font-size: xxx-large;
+}
+.abc{
+    background-color: rgba(119,149,86,255);
+}
